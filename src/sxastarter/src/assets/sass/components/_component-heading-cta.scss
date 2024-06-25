@@ -7,8 +7,12 @@
 }
 
 .heading-cta {
+  @include respond-to(mobile-large) {
+    padding: 0 $size-padding;
+  }
+
   .heading-content-wrapper {
-    max-width: 32rem;
+    max-width: 33rem;
   }
 
   p {
@@ -17,7 +21,7 @@
 
   &.compact {
     .heading-content-wrapper {
-      max-width: 26rem;
+      max-width: 27rem;
     }
   }
 }
