@@ -1,0 +1,17 @@
+﻿---
+ID: "b924278e-abeb-453d-a952-a4331eb4968f"
+Parent: "3353b9ad-d77c-4563-905d-0bb4542c828d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/Services/PODS/Icons
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb72f66d-b62a-4c5b-86fd-5969980e0b42"
