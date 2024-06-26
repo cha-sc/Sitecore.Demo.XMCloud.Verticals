@@ -56,8 +56,10 @@
   }
 
   &.blue-background {
-    .col-lg-6 {
-      background-color: var(--bg-alt);
+    .main-content {
+      &:first-child {
+        background-color: var(--bg-alt);
+      }
     }
   }
 
