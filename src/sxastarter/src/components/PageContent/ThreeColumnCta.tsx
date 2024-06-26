@@ -164,6 +164,11 @@ export const Testimonials = (props: ThreeColumnCtaProps): JSX.Element => {
     >
       <div className="container">
         <div className="row">
+          <h1 className="text-center">
+            <Text field={props.fields.Title} />
+          </h1>
+        </div>
+        <div className="row">
           <Column
             image={props.fields.Image1}
             text={props.fields.Text1}
