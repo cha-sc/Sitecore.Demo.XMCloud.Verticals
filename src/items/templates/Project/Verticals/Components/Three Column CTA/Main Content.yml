@@ -1,0 +1,17 @@
+﻿---
+ID: "968bc9e1-c4cb-4ba5-bf43-7991210ccbe1"
+Parent: "148d07ba-f923-4fb2-8907-0bd440d5db44"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Verticals/Components/Three Column CTA/Main Content
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01cbcaa5-fba7-4cb9-8a37-a25047bb0f96"

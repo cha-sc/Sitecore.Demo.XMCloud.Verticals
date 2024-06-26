@@ -1,0 +1,13 @@
+﻿---
+ID: "ff068c5f-7c75-4169-a05b-b3e146c1a3ab"
+Parent: "02e11513-7c02-4a39-b252-c33d73bfc54d"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Services/Home/Military/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c882e9bd-8a3f-4f4d-8354-9dcb22703ff8"

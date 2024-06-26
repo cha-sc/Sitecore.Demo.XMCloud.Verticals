@@ -1,0 +1,13 @@
+﻿---
+ID: "3dcb9f40-35b4-4b98-bf87-dd75b1e33655"
+Parent: "ff068c5f-7c75-4169-a05b-b3e146c1a3ab"
+Template: "148d07ba-f923-4fb2-8907-0bd440d5db44"
+Path: /sitecore/content/Verticals/Services/Home/Military/Data/Three Column CTA 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b4f204e-dc88-4301-8377-dfb2b9082843"

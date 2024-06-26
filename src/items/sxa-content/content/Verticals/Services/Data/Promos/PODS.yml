@@ -1,0 +1,25 @@
+﻿---
+ID: "a82016f1-f130-408a-b4ea-ae64948a4bd4"
+Parent: "e092e42a-0c56-420a-88f4-cfa09cde2949"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/Services/Data/Promos/PODS
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4900D7E5-61B0-483A-A9D6-69419D4D5982}
+    {C0943942-AE0F-4205-86FA-84884CCE4A53}
+    {1812BF3E-6BDD-466D-99B2-0D7CEBB020FC}
+    {148D07BA-F923-4FB2-8907-0BD440D5DB44}
+    {1B694EF9-154D-429A-9C3F-D7774CD4A852}
+    {3B41D9FC-0EDF-48E1-966C-E260339BA815}
+    {DFED4457-D760-457A-BEC1-C0DCCDC44381}
+    {8FE7F8DC-CB5D-42C2-99F8-76608C243F10}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d67b693c-9bb5-4137-a18c-10f7c35d8775"

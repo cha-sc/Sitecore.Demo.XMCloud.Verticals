@@ -1,0 +1,23 @@
+﻿---
+ID: "89d552e3-6ac7-46ac-9133-661ee0b83518"
+Parent: "0660671b-a1eb-4149-9970-4ca0c5591d68"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Verticals/Services/Presentation/Styles/Theme/Blue Background
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "blue-background"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{488B8AC0-0EF9-4F6F-8711-78BA182B2C4C}"
+- ID: "95579875-484e-41f0-b9c2-804eafaf3ccc"
+  Hint: IsVerifiedStyle
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c20cdf84-2acb-48c3-b5d8-69f136b5c12a"

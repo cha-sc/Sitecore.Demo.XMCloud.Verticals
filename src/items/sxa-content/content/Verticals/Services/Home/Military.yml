@@ -18,9 +18,54 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{042608BF-D7DB-4812-8FAD-EB0F9837A44E}"
+              p:before="*"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=Hero&amp;ComponentConfiguration&amp;LibraryId={{libraryId}}&amp;ComponentId=RuLJJhsLkK&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=SXBEBxCc8a1Wijf&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Hero&amp;GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=-component&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{E2BA1861-88AA-464D-8B41-8A4E401E056D}"
+              p:after="r[@uid='{042608BF-D7DB-4812-8FAD-EB0F9837A44E}']"
+              s:ds="343cc1fb-0376-414d-a49f-fd085e46351e"
+              s:id="{488B8AC0-0EF9-4F6F-8711-78BA182B2C4C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B5976CD6A-9C09-428B-AE34-83DE5144C859%7D&amp;Styles=%7C%7B97E5264B-33B4-4846-8E42-551003D0D305%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{75EA085A-BFB5-4D81-BF8D-8734C3F31105}"
+              p:after="r[@uid='{E2BA1861-88AA-464D-8B41-8A4E401E056D}']"
+              s:ds="3eb2c070-e9a8-4f47-acc4-c4329260fa53"
+              s:id="{488B8AC0-0EF9-4F6F-8711-78BA182B2C4C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B5976CD6A-9C09-428B-AE34-83DE5144C859%7D&amp;Styles=%7C%7B97E5264B-33B4-4846-8E42-551003D0D305%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{B2A7BE90-47D6-4E41-8694-F93878DBC26A}"
+              p:after="r[@uid='{75EA085A-BFB5-4D81-BF8D-8734C3F31105}']"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=YouTube Embed&amp;ComponentConfiguration&amp;LibraryId={{libraryId}}&amp;ComponentId=TiO00_zKgQ&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=JO7O-PA5zEE5BMs&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=YouTube Embed&amp;GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="headless-main" />
+            <r
+              uid="{317ED049-7826-47C5-AAE7-2F8592122F7B}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Three Column CTA 1"
+              s:id="{AD385021-CE2B-4FC1-89AA-207D408034A8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ButtonStyle=Main&amp;FieldNames=%7BF8ED5CE8-13F2-4966-89A8-D8E4A10C19F6%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="headless-main" />
+          </d>
+        </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{C8FF2A20-ABA6-409B-AD69-955CD5219D07}"
+      Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Military
@@ -29,4 +74,4 @@ Languages:
       Value: Military
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "358aa802-0576-47fd-8bdd-bfccf40e381e"
+      Value: "d2cf8f7d-6dda-4b24-951b-6c90f119e234"

@@ -1,0 +1,13 @@
+﻿---
+ID: "196e5a17-8387-405f-9d97-ce7213a0c20b"
+Parent: "ff068c5f-7c75-4169-a05b-b3e146c1a3ab"
+Template: "4900d7e5-61b0-483a-a9d6-69419d4d5982"
+Path: /sitecore/content/Verticals/Services/Home/Military/Data/CTA Banner 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "884a23de-35bd-4d43-a026-cd7736702487"

@@ -1,0 +1,13 @@
+﻿---
+ID: "8219cdf3-9de7-4439-864e-ed415307d405"
+Parent: "ff068c5f-7c75-4169-a05b-b3e146c1a3ab"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/Services/Home/Military/Data/Promo CTA 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a69c9be-4f8f-4eb5-aa33-18b9f0b47a8a"

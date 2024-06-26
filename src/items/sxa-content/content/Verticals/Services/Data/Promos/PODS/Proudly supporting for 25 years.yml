@@ -1,0 +1,23 @@
+﻿---
+ID: "bbffa587-19e8-4c6c-909d-3a4f4383d7f0"
+Parent: "a82016f1-f130-408a-b4ea-ae64948a4bd4"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/Verticals/Services/Data/Promos/PODS/Proudly supporting for 25 years
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <h3>Proudly supporting customers for over 25 years</h3>
+        <p>PODS is here to make your move easier every step of the way. With help from real people, flexible scheduling, and secure storage when you need it, we help you customize your move to fit your unique needs.</p>
+        <p>PODS has proudly been trusted by families for their moving and storage projects for over 25 years. You can rest assured that we've got you covered.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7bc5fb09-bfdf-4bf5-873b-c1342cbeb39e"
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{6CAE5471-D9FE-45B7-AE4E-E9A79D1F55FC}" />

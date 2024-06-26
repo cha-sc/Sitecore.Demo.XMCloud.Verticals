@@ -1,0 +1,26 @@
+﻿---
+ID: "0ca46c4d-0c31-4796-a471-ae4173f6451d"
+Parent: "a82016f1-f130-408a-b4ea-ae64948a4bd4"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/Verticals/Services/Data/Promos/PODS/Military Discount
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <h1>Service members save up to 10%* with PODS' Military discount</h1>
+        <p>Whether you're active duty or inactive, PODS is proud to make moving and storage easy for the military community. Save up to 10%* on your move when you book now with code SERV10 online or call (866) 556-9574</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e007195-83a9-4dc6-9915-03a0c6a608ab"
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link text="Call (866) 556-9574" linktype="external" url="tel:8665569574" anchor="" target="" />
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{00BFC35C-7346-4380-917A-98D80D815947}" />
