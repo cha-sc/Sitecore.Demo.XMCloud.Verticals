@@ -55,12 +55,12 @@
     }
   }
 
-  .text-content {
-    opacity: 0.85;
+  .blue-background{
+    background-color: var(--bg-alt);
   }
 
-  &.blue-background{
-    background-color: var(--bg-alt);
+  .text-content {
+    opacity: 0.85;
   }
 
   &.reverse {
