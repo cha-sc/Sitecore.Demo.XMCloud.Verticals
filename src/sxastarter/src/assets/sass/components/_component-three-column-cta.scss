@@ -41,6 +41,10 @@
     margin-top: auto;
   }
 
+  &.blue-background {
+    background-color: var(--bg-alt);
+  }
+
   &.bordered {
     .content-wrapper {
       border-radius: var(--roundness);

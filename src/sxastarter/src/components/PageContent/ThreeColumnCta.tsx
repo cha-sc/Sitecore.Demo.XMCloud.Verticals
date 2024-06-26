@@ -143,9 +143,9 @@ export const Testimonials = (props: ThreeColumnCtaProps): JSX.Element => {
       >
         <div className="content-wrapper">
           <Image field={image} height={' '} />
-          <h2>
+          <h3 className="text-center">
             <Text field={text} />
-          </h2>
+          </h3>
           <p>
             <Text field={subText} />
           </p>
@@ -162,8 +162,8 @@ export const Testimonials = (props: ThreeColumnCtaProps): JSX.Element => {
       className={`component component-spaced three-column-cta ${props.params.styles.trimEnd()}`}
       id={id ? id : undefined}
     >
-      <div className="container">
-        <div className="row">
+      <div className="container p-3">
+        <div className="row p-3">
           <h1 className="text-center">
             <Text field={props.fields.Title} />
           </h1>
