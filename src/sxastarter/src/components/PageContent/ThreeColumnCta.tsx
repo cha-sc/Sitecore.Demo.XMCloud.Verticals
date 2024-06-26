@@ -122,12 +122,14 @@ export const Testimonials = (props: ThreeColumnCtaProps): JSX.Element => {
     subText,
     link,
     delay,
+    lines,
   }: {
     image: ImageField;
     text: Field<string>;
     subText: Field<string>;
     link: LinkField;
     delay?: number;
+    lines?: boolean;
   }) => {
     const [isVisible, domRef] = useVisibility(delay);
     const buttonStyle = props.params?.ButtonStyle
@@ -136,9 +138,10 @@ export const Testimonials = (props: ThreeColumnCtaProps): JSX.Element => {
 
     return (
       <div
-        className={`col-sm-12 col-lg-4 ${
-          !isPageEditing ? `fade-section ${isVisible ? 'is-visible' : ''}` : ''
-        } `}
+        className={`col-sm-12 col-lg-4 
+          ${!isPageEditing ? `fade-section ${isVisible ? 'is-visible' : ''}` : ''} 
+          ${lines ? ' lines ' : ''}
+        `}
         ref={domRef}
       >
         <div className="content-wrapper">
@@ -181,6 +184,7 @@ export const Testimonials = (props: ThreeColumnCtaProps): JSX.Element => {
             subText={props.fields.SubText2}
             link={props.fields.Link2}
             delay={500}
+            lines={true}
           />
           <Column
             image={props.fields.Image3}
