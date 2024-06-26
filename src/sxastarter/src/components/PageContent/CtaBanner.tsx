@@ -43,7 +43,7 @@ export const Default = (props: CtaBannerProps): JSX.Element => {
     >
       <div className="container container-widest-fluid">
         <div className="row row-gap-4 main-content align-items-center">
-          <div className="col-lg-6">
+          <div className="col-lg-6 blue-background">
             <IconAccent image={props.fields.Icon} inverted />
             <div className="content-wrapper">
               <h6 className="eyebrow-accent">
