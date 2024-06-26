@@ -56,10 +56,8 @@
   }
 
   &.blue-background {
-    .main-content {
-      &:first-child {
-        background-color: var(--bg-alt);
-      }
+    .color-accent {
+      background-color: var(--bg-alt);
     }
   }
 
