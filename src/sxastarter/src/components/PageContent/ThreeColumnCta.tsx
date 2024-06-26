@@ -138,9 +138,9 @@ export const Testimonials = (props: ThreeColumnCtaProps): JSX.Element => {
 
     return (
       <div
-        className={`col-sm-12 col-lg-4 
-          ${!isPageEditing ? `fade-section ${isVisible ? 'is-visible' : ''}` : ''} 
-          ${lines ? ' lines ' : ''}
+        className={`col-sm-12 col-lg-4 ${
+          !isPageEditing ? `fade-section ${isVisible ? 'is-visible' : ''}` : ''
+        } ${lines ? 'lines' : ''}
         `}
         ref={domRef}
       >
