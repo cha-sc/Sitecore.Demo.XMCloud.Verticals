@@ -49,11 +49,14 @@
 
   .content-wrapper {
     margin: 3rem;
-    background-color: var(--bg-alt);
 
     @include respond-to(mobile-large) {
       margin: 2rem 0 0;
     }
+  }
+
+  .col-lg-6 > .content-wrapper {
+    background-color: var(--bg-alt);
   }
 
   .text-content {
