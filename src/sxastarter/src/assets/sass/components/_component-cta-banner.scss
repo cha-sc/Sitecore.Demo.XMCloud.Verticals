@@ -55,8 +55,10 @@
     }
   }
 
-  .blue-background{
-    background-color: var(--bg-alt);
+  &.blue-background {
+    .main-contnet div:first-child {
+      background-color: var(--bg-alt);
+    }
   }
 
   .text-content {
