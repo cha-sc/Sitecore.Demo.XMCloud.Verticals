@@ -1,0 +1,20 @@
+﻿---
+ID: "e97e627a-4ed6-4469-a457-e541f79554ad"
+Parent: "3fec4ccc-480f-4844-b87e-95f84c467f0b"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: /sitecore/content/Verticals/Services/Presentation/Partial Designs/PODS/PODS Header/Data/Image 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="c5a30698-ce24-43ed-ac46-0a700a2efe96" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a397265d-012a-4d6e-88cc-690044e000db"

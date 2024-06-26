@@ -1,0 +1,13 @@
+﻿---
+ID: "f35d17b2-5453-462d-88ec-815c75f5908f"
+Parent: "342f5e05-35ed-4d92-997e-0ad1ad45e585"
+Template: "139c4cac-d954-45cf-bb38-6000cefa64d4"
+Path: /sitecore/content/Verticals/Services/Presentation/Partial Designs/PODS
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cfb88415-1ff3-4cef-95c2-377d661367ba"
