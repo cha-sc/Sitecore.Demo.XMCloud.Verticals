@@ -22,8 +22,8 @@
     }
 
     .button-main {
-      background-color: var(--text-body);
-      color: var(--bg-body);
+      background-color: var(--bg-color);
+      color: var(--bg-main);
 
       &:hover {
         filter: brightness(85%);
