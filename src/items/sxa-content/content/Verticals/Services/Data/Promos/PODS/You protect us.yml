@@ -1,0 +1,32 @@
+﻿---
+ID: "cd23890a-58f0-49fd-a26e-c73457712621"
+Parent: "a82016f1-f130-408a-b4ea-ae64948a4bd4"
+Template: "4900d7e5-61b0-483a-a9d6-69419d4d5982"
+Path: /sitecore/content/Verticals/Services/Data/Promos/PODS/You protect us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "34c7ca9b-6c24-4133-bd83-b453b838eb0b"
+      Hint: Link
+      Value: 
+    - ID: "6f94c5b4-e2b4-41eb-899f-9a29904b8e18"
+      Hint: Image
+      Value: |
+        <image mediaid="{6BB3F2AE-CCC7-4B0E-B8FF-DC048DC8C613}" />
+    - ID: "72b19acc-d575-4ae4-a0cf-2182e0c64562"
+      Hint: Eyebrow
+      Value: 
+    - ID: "7f7e12e1-0768-4edd-b86b-ea9db84d71b5"
+      Hint: Icon
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5950d70-55ff-457b-95a8-c9544d886c17"
+    - ID: "b03c10d8-11a2-48ca-9822-3640768ed2b7"
+      Hint: Text
+      Value: With PODS, your belongings will always stay in your container, and only you will have the key. There's no risk of your things being mixed in with other people's stuff. Your container can stay safe at your home or at a local, secure PODS Storage Center as long as you need.
+    - ID: "e62af488-48ce-4ae4-a2bb-37ad346981a4"
+      Hint: Title
+      Value: You protect us. We protect your belongings.

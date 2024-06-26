@@ -163,19 +163,7 @@
           "givenName": "Christopher",
           "familyName": "Haddad"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "TiO00_zKgQ",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-06-26T03:32:21.558Z",
-            "modifiedAt": "2024-06-26T03:32:21.558Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -200,19 +188,7 @@
           "givenName": "Christopher",
           "familyName": "Haddad"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "RuLJJhsLkK",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-06-26T03:10:54.419Z",
-            "modifiedAt": "2024-06-26T03:10:54.419Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
