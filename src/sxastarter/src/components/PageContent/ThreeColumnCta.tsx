@@ -162,7 +162,7 @@ export const Testimonials = (props: ThreeColumnCtaProps): JSX.Element => {
       className={`component component-spaced three-column-cta ${props.params.styles.trimEnd()}`}
       id={id ? id : undefined}
     >
-      <div className="container p-3">
+      <div className="container p-3 color-accent">
         <div className="row p-3">
           <h1 className="text-center">
             <Text field={props.fields.Title} />

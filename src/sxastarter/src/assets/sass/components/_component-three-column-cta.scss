@@ -42,7 +42,9 @@
   }
 
   &.blue-background {
-    background-color: var(--bg-alt);
+    .color-accent {
+      background-color: var(--bg-alt);
+    }
   }
 
   &.bordered {
