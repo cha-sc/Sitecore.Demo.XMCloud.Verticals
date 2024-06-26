@@ -5,11 +5,11 @@
   }
 
   .container-widest-fluid {
-    background-color: var(--bg-saturated);
+    //background-color: var(--bg-saturated);
     border-radius: var(--roundness);
-    margin-top: 6.5rem;
-    margin-bottom: 6.5rem;
-    color: var(--hr-color);
+    //margin-top: 6.5rem;
+    //margin-bottom: 6.5rem;
+    //color: var(--hr-color);
 
     @include respond-to(mobile-large) {
       margin-top: 0 !important;
@@ -43,12 +43,13 @@
       border-radius: var(--roundness);
       width: 100%;
       aspect-ratio: 1/1;
-      object-fit: cover;
+      //object-fit: cover;
     }
   }
 
   .content-wrapper {
-    margin: 3rem 0;
+    margin: 3rem;
+    background-color: var(--bg-alt);
 
     @include respond-to(mobile-large) {
       margin: 2rem 0 0;
