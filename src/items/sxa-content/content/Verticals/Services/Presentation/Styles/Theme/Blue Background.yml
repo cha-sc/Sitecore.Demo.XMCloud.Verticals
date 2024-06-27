@@ -9,7 +9,12 @@ SharedFields:
   Value: "blue-background"
 - ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
   Hint: Allowed Renderings
-  Value: "{488B8AC0-0EF9-4F6F-8711-78BA182B2C4C}"
+  Value: |
+    {488B8AC0-0EF9-4F6F-8711-78BA182B2C4C}
+    {3A9A9D22-C092-4B54-9511-EB202CEABE8D}
+    {AD385021-CE2B-4FC1-89AA-207D408034A8}
+    {35075000-760E-4FF3-BD1C-F2EEBA251DCB}
+    {333DEF3E-C272-4AD9-A493-8D5CCAE08312}
 - ID: "95579875-484e-41f0-b9c2-804eafaf3ccc"
   Hint: IsVerifiedStyle
   Value: 1
@@ -20,4 +25,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c20cdf84-2acb-48c3-b5d8-69f136b5c12a"
+      Value: "aa33c9bf-b65e-4f5d-aab1-853815a90dd4"
