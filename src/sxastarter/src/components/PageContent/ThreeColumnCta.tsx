@@ -144,9 +144,9 @@ export const Testimonials = (props: ThreeColumnCtaProps): JSX.Element => {
         `}
         ref={domRef}
       >
-        <div className="content-wrapper">
+        <div className="content-wrapper text-center">
           <Image field={image} height={' '} />
-          <h3 className="text-center">
+          <h3>
             <Text field={text} />
           </h3>
           <p>
