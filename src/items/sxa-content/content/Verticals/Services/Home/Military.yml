@@ -70,10 +70,17 @@ Languages:
               s:ph="headless-main" />
             <r
               uid="{89EBD2F3-340E-48F5-B83E-A217D6E9D648}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{86C11EDE-ED7A-4E79-8048-A7FA2D721116}']"
               s:ds="cd23890a-58f0-49fd-a26e-c73457712621"
               s:id="{488B8AC0-0EF9-4F6F-8711-78BA182B2C4C}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B5976CD6A-9C09-428B-AE34-83DE5144C859%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="headless-main" />
+            <r
+              uid="{A9F8B244-97A0-44FE-B484-6DA1F9976239}"
+              p:after="*[1=2]"
+              s:ds="7bcd79d2-7225-4ee4-84a3-6a1a4cd1ddc0"
+              s:id="{AD385021-CE2B-4FC1-89AA-207D408034A8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ButtonStyle=Main&amp;FieldNames=%7BB14FEB9F-54D2-498E-A7D4-0B076671C3DC%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
               s:ph="headless-main" />
           </d>
         </r>
@@ -88,4 +95,4 @@ Languages:
       Value: Military
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f82587a6-3533-4fba-a058-65ced9272bfe"
+      Value: "3e87ad42-bbbf-4ea0-8702-0f778e65aa9f"

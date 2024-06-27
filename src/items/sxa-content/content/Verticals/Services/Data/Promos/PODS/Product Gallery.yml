@@ -1,0 +1,56 @@
+﻿---
+ID: "7bcd79d2-7225-4ee4-84a3-6a1a4cd1ddc0"
+Parent: "a82016f1-f130-408a-b4ea-ae64948a4bd4"
+Template: "148d07ba-f923-4fb2-8907-0bd440d5db44"
+Path: /sitecore/content/Verticals/Services/Data/Promos/PODS/Product Gallery
+SharedFields:
+- ID: "39b3d592-0895-4f30-9c17-454b171f0b2e"
+  Hint: Image3
+  Value: |
+    <image mediaid="{F896F937-F0A3-4F66-BDF6-B57F64041301}" />
+- ID: "39fe4fb3-3794-4b9a-a584-ff877e93e33b"
+  Hint: Image2
+  Value: |
+    <image mediaid="{C3A3EAD4-6B36-4B35-8088-E9507EE8CF95}" />
+- ID: "c511247c-fec1-4690-81d6-ce791da18d4a"
+  Hint: Image1
+  Value: |
+    <image mediaid="{BD307E1D-CA99-456F-80F9-369D062945B4}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
+      Hint: Link2
+      Value: 
+    - ID: "2731b4d6-b866-466a-9731-5161788d662b"
+      Hint: SubText2
+      Value: "Perfect for a 1-bedroom home, or a 500-800 sq ft space. Great for packing away things from 2 or 3 rooms. Compare to a 10'x10' storage unit or 15' truck."
+    - ID: "277e3acc-b359-4c11-88b9-4016574419dc"
+      Hint: Link3
+      Value: 
+    - ID: "34f6d379-9a96-4cb8-839f-0d224a4f6db1"
+      Hint: Text2
+      Value: "Medium Container 12-Foot"
+    - ID: "4c50be2f-021e-4846-abb0-50feb2df5eed"
+      Hint: SubText1
+      Value: "Ideal for a 2-bedroom home, or up to 1,200 sq ft. About the length of a standard parking spot. Comparable to a 10'x15' storage unit or 20' truck."
+    - ID: "5264d7eb-64cd-4203-98e5-a4d0380f57e6"
+      Hint: Text1
+      Value: "Large Container 16-Foot"
+    - ID: "5eb6058f-3f45-4dd4-8153-8c74390859f4"
+      Hint: Text3
+      Value: "Small Container 8-Foot"
+    - ID: "63e1abec-67cb-4aea-ab72-8b5b60b69473"
+      Hint: Link1
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52f307c4-6e30-4157-956d-1b58503186b1"
+    - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
+      Hint: SubText3
+      Value: Great for a studio or room of 500 sq ft or less. A popular choice for college students. Comparable to a 5'x10' storage unit or 10' truck.
+    - ID: "e32a48f9-76bc-4eee-a4b7-da8f58ea4bf9"
+      Hint: Title
+      Value: We've got containers for your moving and storage needs
