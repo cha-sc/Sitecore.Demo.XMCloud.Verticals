@@ -8,6 +8,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "34c7ca9b-6c24-4133-bd83-b453b838eb0b"
       Hint: Link
       Value: |
@@ -24,10 +27,11 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f21f1215-c99d-4bfc-84b4-087ac269bc02"
+      Value: "fc2ce392-5bc4-4725-ac63-435303ca1eb0"
     - ID: "b03c10d8-11a2-48ca-9822-3640768ed2b7"
       Hint: Text
-      Value: "<p>Whether you're active duty or inactive, PODS is proud to make moving and storage easy for the military community. Save up to 10%* on your move when you book now with code <strong>SERV10</strong> online or call (866) 556-9574</p>"
+      Value: |
+        <div class="ck-content"><p data-placeholder="[No text in field]">Whether you're active duty or inactive, PODS is proud to make moving and storage easy for the military community. Save up to 10%* on your move when you book now with code <strong>SERV10</strong> online or call (866) 556-9574 make some quick changes</p></div>
     - ID: "e62af488-48ce-4ae4-a2bb-37ad346981a4"
       Hint: Title
       Value: Service members save up to 10%* with PODS' Military discount
